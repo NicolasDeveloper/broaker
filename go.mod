@@ -1,4 +1,4 @@
-module broakers
+module github.com/NicolasDeveloper/broaker
 
 go 1.13
 
